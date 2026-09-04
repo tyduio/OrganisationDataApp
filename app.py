@@ -37,7 +37,7 @@ if "processing_history" not in st.session_state:
 # TITLE
 # ==========================================================
 
-st.title("📊 Organisation Data Processing System")
+st.title("📊 Automated Data Processing and Visualization System")
 
 st.write(
     "--1. Welcome to the Organisation Data Processing and "
